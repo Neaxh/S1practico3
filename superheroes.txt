@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSocidad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radiactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": "Ironman",
+    "enemigo": "Duende Verde"
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Iron Man",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Avengers",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Corazón defectuoso",
+    "poder": [
+      "Armadura Blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Genio en tecnología",
+    "aliado": "Spiderman",
+    "enemigo": "Thanos"
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Wonder Woman",
+    "nombreReal": "Diana Prince",
+    "nombreSociedad": "Justice League",
+    "edad": 5000,
+    "planetaOrigen": "Themyscira",
+    "debilidad": "Lazo de la verdad",
+    "poder": [
+      "Fuerza Sobrehumana",
+      "Vuelo",
+      "Inmortalidad"
+    ],
+    "habilidadEspecial": "Lazo de la verdad",
+    "aliado": "Batman",
+    "enemigo": "Ares"
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Superman",
+    "nombreReal": "Clark Kent",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Krypton",
+    "debilidad": "Kryptonita",
+    "poder": [
+      "Superfuerza",
+      "Vuelo",
+      "Visión láser"
+    ],
+    "habilidadEspecial": "Invulnerabilidad",
+    "aliado": "Wonder Woman",
+    "enemigo": "Lex Luthor"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Batman",
+    "nombreReal": "Bruce Wayne",
+    "nombreSociedad": "Justice League",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humano",
+    "poder": [
+      "Intelecto superior",
+      "Habilidades de combate"
+    ],
+    "habilidadEspecial": "Detective experto",
+    "aliado": "Robin",
+    "enemigo": "Joker"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Avengers",
+    "edad": 1500,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Sin su martillo Mjolnir",
+    "poder": [
+      "Control del trueno",
+      "Superfuerza",
+      "Vuelo"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": "Loki",
+    "enemigo": "Hela"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "nombreSociedad": "Justice League",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Tarda en detenerse",
+    "poder": [
+      "Supervelocidad",
+      "Viaje en el tiempo"
+    ],
+    "habilidadEspecial": "Científico forense",
+    "aliado": "Cyborg",
+    "enemigo": "Reverse Flash"
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Fuerza ilimitada",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Regeneración",
+    "aliado": "Black Widow",
+    "enemigo": "Abominación"
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Avengers",
+    "edad": 35,
+    "planetaOrigen": "Wakanda",
+    "debilidad": "Exceso de confianza",
+    "poder": [
+      "Superfuerza",
+      "Agilidad",
+      "Reflejos sobrehumanos"
+    ],
+    "habilidadEspecial": "Experto en artes marciales",
+    "aliado": "Shuri",
+    "enemigo": "Killmonger"
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Aquaman",
+    "nombreReal": "Arthur Curry",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Atlantis",
+    "debilidad": "Necesita contacto con el agua al menos una vez por hora",
+    "poder": [
+      "Control del agua",
+      "Superfuerza"
+    ],
+    "habilidadEspecial": "Capacidad telepática de comunicarse con la vida marina",
+    "aliado": "Mera",
+    "enemigo": "Orm"
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Limitado por el uso de artefactos místicos",
+    "poder": [
+      "Magia",
+      "Manipulación del tiempo",
+      "Proyección astral"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Superman",
+    "nombreReal": "Clark Kent",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Krypton",
+    "debilidad": "Kryptonita",
+    "poder": [
+      "Superfuerza",
+      "Vuelo",
+      "Visión láser"
+    ],
+    "habilidadEspecial": "Invulnerabilidad",
+    "aliado": "Wonder Woman",
+    "enemigo": "Lex Luthor"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Batman",
+    "nombreReal": "Bruce Wayne",
+    "nombreSociedad": "Justice League",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humano",
+    "poder": [
+      "Intelecto superior",
+      "Habilidades de combate"
+    ],
+    "habilidadEspecial": "Detective experto",
+    "aliado": "Robin",
+    "enemigo": "Joker"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Avengers",
+    "edad": 1500,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Sin su martillo Mjolnir",
+    "poder": [
+      "Control del trueno",
+      "Superfuerza",
+      "Vuelo"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": "Loki",
+    "enemigo": "Hela"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "nombreSociedad": "Justice League",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Tarda en detenerse",
+    "poder": [
+      "Supervelocidad",
+      "Viaje en el tiempo"
+    ],
+    "habilidadEspecial": "Científico forense",
+    "aliado": "Cyborg",
+    "enemigo": "Reverse Flash"
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Fuerza ilimitada",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Regeneración",
+    "aliado": "Black Widow",
+    "enemigo": "Abominación"
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Avengers",
+    "edad": 35,
+    "planetaOrigen": "Wakanda",
+    "debilidad": "Exceso de confianza",
+    "poder": [
+      "Superfuerza",
+      "Agilidad",
+      "Reflejos sobrehumanos"
+    ],
+    "habilidadEspecial": "Experto en artes marciales",
+    "aliado": "Shuri",
+    "enemigo": "Killmonger"
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Aquaman",
+    "nombreReal": "Arthur Curry",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Atlantis",
+    "debilidad": "Necesita contacto con el agua al menos una vez por hora",
+    "poder": [
+      "Control del agua",
+      "Superfuerza"
+    ],
+    "habilidadEspecial": "Capacidad telepática de comunicarse con la vida marina",
+    "aliado": "Mera",
+    "enemigo": "Orm"
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Limitado por el uso de artefactos místicos",
+    "poder": [
+      "Magia",
+      "Manipulación del tiempo",
+      "Proyección astral"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Superman",
+    "nombreReal": "Clark Kent",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Krypton",
+    "debilidad": "Kryptonita",
+    "poder": [
+      "Superfuerza",
+      "Vuelo",
+      "Visión láser"
+    ],
+    "habilidadEspecial": "Invulnerabilidad",
+    "aliado": "Wonder Woman",
+    "enemigo": "Lex Luthor"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Batman",
+    "nombreReal": "Bruce Wayne",
+    "nombreSociedad": "Justice League",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humano",
+    "poder": [
+      "Intelecto superior",
+      "Habilidades de combate"
+    ],
+    "habilidadEspecial": "Detective experto",
+    "aliado": "Robin",
+    "enemigo": "Joker"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Avengers",
+    "edad": 1500,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Sin su martillo Mjolnir",
+    "poder": [
+      "Control del trueno",
+      "Superfuerza",
+      "Vuelo"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": "Loki",
+    "enemigo": "Hela"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "nombreSociedad": "Justice League",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Tarda en detenerse",
+    "poder": [
+      "Supervelocidad",
+      "Viaje en el tiempo"
+    ],
+    "habilidadEspecial": "Científico forense",
+    "aliado": "Cyborg",
+    "enemigo": "Reverse Flash"
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Fuerza ilimitada",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Regeneración",
+    "aliado": "Black Widow",
+    "enemigo": "Abominación"
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Avengers",
+    "edad": 35,
+    "planetaOrigen": "Wakanda",
+    "debilidad": "Exceso de confianza",
+    "poder": [
+      "Superfuerza",
+      "Agilidad",
+      "Reflejos sobrehumanos"
+    ],
+    "habilidadEspecial": "Experto en artes marciales",
+    "aliado": "Shuri",
+    "enemigo": "Killmonger"
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Aquaman",
+    "nombreReal": "Arthur Curry",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Atlantis",
+    "debilidad": "Necesita contacto con el agua al menos una vez por hora",
+    "poder": [
+      "Control del agua",
+      "Superfuerza"
+    ],
+    "habilidadEspecial": "Capacidad telepática de comunicarse con la vida marina",
+    "aliado": "Mera",
+    "enemigo": "Orm"
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Limitado por el uso de artefactos místicos",
+    "poder": [
+      "Magia",
+      "Manipulación del tiempo",
+      "Proyección astral"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  }
+]
